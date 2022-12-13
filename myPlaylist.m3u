@@ -12,41 +12,41 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 #EXTINF:-1 tvg-name="VIP Serial" group-title="Кино", VIP Serial
 #EXTGRP:Кино
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
-#EXTINF:-1 tvg-name="Домашний (okko tv)" group-title="TV", Домашний (okko tv)
-#EXTGRP:TV
+#EXTINF:-1 tvg-name="Домашний (okko tv)" group-title="Развлекательные", Домашний (okko tv)
+#EXTGRP:Развлекательные
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
-#EXTINF:-1 tvg-name="Рен ТВ HD (okko tv)" group-title="TV", Рен ТВ HD (okko tv)
-#EXTGRP:TV
+#EXTINF:-1 tvg-name="Рен ТВ HD (okko tv)" group-title="Развлекательные", Рен ТВ HD (okko tv)
+#EXTGRP:Развлекательные
 http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
-#EXTINF:-1 tvg-name="СТС (okko tv)" group-title="TV", СТС (okko tv)
-#EXTGRP:TV
+#EXTINF:-1 tvg-name="СТС (okko tv)" group-title="Развлекательные", СТС (okko tv)
+#EXTGRP:Развлекательные
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=sts
-#EXTINF:-1 tvg-name="СТС Love (okko tv)" group-title="TV", СТС Love (okko tv)
-#EXTGRP:TV
+#EXTINF:-1 tvg-name="СТС Love (okko tv)" group-title="Развлекательные", СТС Love (okko tv)
+#EXTGRP:Развлекательные
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="Че (okko tv)" group-title="TV", Че (okko tv)
-#EXTGRP:TV
+#EXTINF:-1 tvg-name="Че (okko tv)" group-title="Развлекательные", Че (okko tv)
+#EXTGRP:Развлекательные
 http://ott-cdn.ucom.am/s77/04.m3u8
-#EXTINF:-1 tvg-name="Пятница HD" group-title="TV", Пятница HD
-#EXTGRP:TV
+#EXTINF:-1 tvg-name="Пятница HD" group-title="Развлекательные", Пятница HD
+#EXTGRP:Развлекательные
 http://sochi-strk.ru:2015/STRK/mpegts
-#EXTINF:-1 tvg-name="СТС International" group-title="TV", СТС International
-#EXTGRP:TV
+#EXTINF:-1 tvg-name="СТС International" group-title="Развлекательные", СТС International
+#EXTGRP:Развлекательные
 https://sc.id-tv.kz/STS_34_35.m3u8
-#EXTINF:-1 tvg-name="Суббота! HD" group-title="TV", Суббота! HD
-#EXTGRP:TV
+#EXTINF:-1 tvg-name="Суббота! HD" group-title="Развлекательные", Суббота! HD
+#EXTGRP:Развлекательные
 http://89.232.125.186/online_tv_Tatarstan24/index.m3u8
-#EXTINF:-1 tvg-name="ТВ-3 FHD" group-title="TV", ТВ-3 FHD
-#EXTGRP:TV
+#EXTINF:-1 tvg-name="ТВ-3 FHD" group-title="Развлекательные", ТВ-3 FHD
+#EXTGRP:Развлекательные
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
-#EXTINF:-1 tvg-name="ТНТ HD" group-title="TV", ТНТ HD
-#EXTGRP:TV
+#EXTINF:-1 tvg-name="ТНТ HD" group-title="Развлекательные", ТНТ HD
+#EXTGRP:Развлекательные
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 tvg-name="ТНТ4 HD" group-title="TV", ТНТ4 HD
+#EXTINF:-1 tvg-name="ТНТ4 HD" group-title="Развлекательные", ТНТ4 HD
 #EXTGRP:Развлекательные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="СТС Love" group-title="TV", СТС Love
-#EXTGRP:TV
+#EXTINF:-1 tvg-name="СТС Love" group-title="Развлекательные", СТС Love
+#EXTGRP:Развлекательные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-name="Че" group-title="Развлекательные", Че
 #EXTGRP:Развлекательные
