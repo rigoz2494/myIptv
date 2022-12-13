@@ -1,4 +1,65 @@
 #EXTM3U
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?|User-agent=HlsWinkPlayer
+#EXTINF:-1 tvg-name="VIP Premiere" group-title="Кино", VIP Premiere
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 tvg-name="VIP Megahit" group-title="Кино", VIP Megahit
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 tvg-name="VIP Comedy" group-title="Кино", VIP Comedy
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1 tvg-name="VIP Serial" group-title="Кино", VIP Serial
+#EXTGRP:Кино
+http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+#EXTINF:-1 tvg-name="Домашний (okko tv)" group-title="TV", Домашний (okko tv)
+#EXTGRP:TV
+https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+#EXTINF:-1 tvg-name="Рен ТВ HD (okko tv)" group-title="TV", Рен ТВ HD (okko tv)
+#EXTGRP:TV
+http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
+#EXTINF:-1 tvg-name="СТС (okko tv)" group-title="TV", СТС (okko tv)
+#EXTGRP:TV
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=sts
+#EXTINF:-1 tvg-name="СТС Love (okko tv)" group-title="TV", СТС Love (okko tv)
+#EXTGRP:TV
+http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-name="Че (okko tv)" group-title="TV", Че (okko tv)
+#EXTGRP:TV
+http://ott-cdn.ucom.am/s77/04.m3u8
+#EXTINF:-1 tvg-name="Пятница HD" group-title="TV", Пятница HD
+#EXTGRP:TV
+http://sochi-strk.ru:2015/STRK/mpegts
+#EXTINF:-1 tvg-name="СТС International" group-title="TV", СТС International
+#EXTGRP:TV
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1 tvg-name="Суббота! HD" group-title="TV", Суббота! HD
+#EXTGRP:TV
+http://89.232.125.186/online_tv_Tatarstan24/index.m3u8
+#EXTINF:-1 tvg-name="ТВ-3 FHD" group-title="TV", ТВ-3 FHD
+#EXTGRP:TV
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
+#EXTINF:-1 tvg-name="ТНТ HD" group-title="TV", ТНТ HD
+#EXTGRP:TV
+http://ott-cdn.ucom.am/s19/04.m3u8
+#EXTINF:-1 tvg-name="ТНТ4 HD" group-title="TV", ТНТ4 HD
+#EXTGRP:Развлекательные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="СТС Love" group-title="TV", СТС Love
+#EXTGRP:TV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="Че" group-title="Развлекательные", Че
+#EXTGRP:Развлекательные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl2" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png" group-title="Развлекательные",Ю (+2)
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl4" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png" group-title="Развлекательные",Ю (+4)
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl7" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png" group-title="Развлекательные",Ю (+7)
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="ExtasY HD" group-title="18+", ExtasY HD
 #EXTGRP:18+
@@ -41,266 +102,3 @@ http://cdn.adultiptv.net/gay.m3u8
 http://live.redtraffic.xyz/hardcore.m3u8
 #EXTINF:-1 tvg-name="Three Some" group-title="18+", Three Some
 #EXTGRP:18+
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
-#EXTINF:-1 tvg-name="Ultra REX FullHD" group-title="Кино", Ultra REX FullHD
-#EXTGRP:Кино
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 tvg-name="Ultra HD Cinema" group-title="Кино", Ultra HD Cinema
-#EXTGRP:Кино
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?|User-agent=HlsWinkPlayer
-#EXTINF:-1 tvg-name="VIP Premiere" group-title="Кино", VIP Premiere
-#EXTGRP:Кино
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1 tvg-name="VIP Megahit" group-title="Кино", VIP Megahit
-#EXTGRP:Кино
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 tvg-name="VIP Comedy" group-title="Кино", VIP Comedy
-#EXTGRP:Кино
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1 tvg-name="VIP Serial" group-title="Кино", VIP Serial
-#EXTGRP:Кино
-https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:-1 tvg-name="TV1000 HD" group-title="Кино", TV1000 HD
-#EXTGRP:Кино
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1 tvg-name="TV1000 Action HD" group-title="Кино", TV1000 Action HD
-#EXTGRP:Кино
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1 tvg-name="TV1000 Русское кино HD" group-title="Кино", TV1000 Русское кино HD
-#EXTGRP:Кино
-http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Ужастик" group-title="Кино", Ужастик
-#EXTGRP:Кино
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="TV 1000 HD" group-title="Кино", TV 1000 HD
-#EXTGRP:Кино
-http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
-#EXTINF:-1 tvg-name="TV 1000 Action FHD" group-title="Кино", TV 1000 Action FHD
-#EXTGRP:Кино
-https://ed-nl-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Kino Watch TV 3" group-title="Кино", Kino Watch TV 3
-#EXTGRP:Кино
-https://ed-nl-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="KINO 18+" group-title="Кино", KINO 18+
-#EXTGRP:Кино
-#EXTINF:0 type=»stream» channelId=»16″, ТНТ
-http://188.242.130.239:81/udp/239.239.2.8:5239?zona-iptv.ru
-#EXTGRP:Кино
-#EXTINF:0 type=»stream» channelId=»16″, ТНТ
-http://109.171.2.172:81/udp/239.0.42.3:1224?zona-iptv.ru
-#EXTINF:-1 tvg-name="360°" group-title="Развлекательные", 360°
-#EXTGRP:Развлекательные
-https://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 tvg-name="8 Канал Европа" group-title="Развлекательные", 8 Канал Европа
-#EXTGRP:Развлекательные
-http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:-1 tvg-name="CGTN Русский" group-title="Развлекательные", CGTN Русский
-#EXTGRP:Развлекательные
-http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle" group-title="Развлекательные", Deutsche Welle
-#EXTGRP:Развлекательные
-http://1hdru-hls-otcnet.cdnvideo.ru/DW/playlist.m3u8
-#EXTINF:-1 tvg-name="MuzTV (okko tv)" group-title="Развлекательные", MuzTV (okko tv)
-#EXTGRP:Развлекательные
-http://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
-#EXTINF:-1 tvg-name="Арис 24" group-title="Развлекательные", Арис 24
-#EXTGRP:Развлекательные
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 tvg-name="Башкортостан 24" group-title="Развлекательные", Башкортостан 24
-#EXTGRP:Развлекательные
-http://live.gtrk.tv/hls/b24-hls.m3u8
-#EXTINF:-1 tvg-name="Ветта 24 Пермь" group-title="Развлекательные", Ветта 24 Пермь
-#EXTGRP:Развлекательные
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 tvg-name="Вечерняя Москва HD" group-title="Развлекательные", Вечерняя Москва HD
-#EXTGRP:Развлекательные
-http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
-#EXTINF:-1 tvg-name="Домашний (okko tv)" group-title="Развлекательные", Домашний (okko tv)
-#EXTGRP:Развлекательные
-https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
-#EXTINF:-1 tvg-name="Домашний HD" group-title="Развлекательные", Домашний HD
-#EXTGRP:Развлекательные
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=domashnii
-#EXTINF:-1 tvg-name="Енисей HD" group-title="Развлекательные", Енисей HD
-#EXTGRP:Развлекательные
-http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="Звезда (okko tv)" group-title="Развлекательные", Звезда (okko tv)
-#EXTGRP:Развлекательные
-https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8
-#EXTINF:-1 tvg-name="К16" group-title="Развлекательные", К16
-#EXTGRP:Развлекательные
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 tvg-name="Калейдскоп (okko tv)" group-title="Развлекательные", Калейдскоп (okko tv)
-#EXTGRP:Развлекательные
-https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
-#EXTINF:-1 tvg-name="Кубань 24" group-title="Развлекательные", Кубань 24
-#EXTGRP:Развлекательные
-https://stream.kuban24.tv:1500/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Культура (okko tv)" group-title="Развлекательные", Культура (okko tv)
-#EXTGRP:Развлекательные
-https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD.m3u8
-#EXTINF:-1 tvg-name="Мир (okko tv)" group-title="Развлекательные", Мир (okko tv)
-#EXTGRP:Развлекательные
-https://okkotv-live.cdnvideo.ru/channel/Mir_OTT.m3u8
-#EXTINF:-1 tvg-name="Москва Доверие" group-title="Развлекательные", Москва Доверие
-#EXTGRP:Развлекательные
-http://cdnmg.secure.live.rtr-vesti.ru/hls/doverie/playlist_2.m3u8
-#EXTINF:-1 tvg-name="Ники ТВ" group-title="Развлекательные", Ники ТВ
-#EXTGRP:Развлекательные
-http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
-#EXTINF:-1 tvg-name="ОТВ (Одинцово)" group-title="Развлекательные", ОТВ (Одинцово)
-#EXTGRP:Развлекательные
-http://185.18.4.16/live/3m/playlist.m3u8
-#EXTINF:-1 tvg-name="Пятый Канал (okko tv)" group-title="Развлекательные", Пятый Канал (okko tv)
-#EXTGRP:Развлекательные
-https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
-#EXTINF:-1 tvg-name="Рен ТВ HD (okko tv)" group-title="Развлекательные", Рен ТВ HD (okko tv)
-#EXTGRP:Развлекательные
-https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
-#EXTINF:-1 tvg-name="Сочи 24 HD" group-title="Развлекательные", Сочи 24 HD
-#EXTGRP:Развлекательные
-http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
-#EXTINF:-1 tvg-name="СТС (okko tv)" group-title="Развлекательные", СТС (okko tv)
-#EXTGRP:Развлекательные
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
-#EXTINF:-1 tvg-name="СТС HD" group-title="Развлекательные", СТС HD
-#EXTGRP:Развлекательные
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=sts
-#EXTINF:-1 tvg-name="СТС Love (okko tv)" group-title="Развлекательные", СТС Love (okko tv)
-#EXTGRP:Развлекательные
-https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
-#EXTINF:-1 tvg-name="Сургут 24" group-title="Развлекательные", Сургут 24
-#EXTGRP:Развлекательные
-http://video1.in-news.ru/c24/index.m3u8
-#EXTINF:-1 tvg-name="ТВК 24 (Красноярск)" group-title="Развлекательные", ТВК 24 (Красноярск)
-#EXTGRP:Развлекательные
-http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="Че (okko tv)" group-title="Развлекательные", Че (okko tv)
-#EXTGRP:Развлекательные
-https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
-#EXTINF:-1 tvg-name="Щелковское ТВ" group-title="Развлекательные", Щелковское ТВ
-#EXTGRP:Развлекательные
-http://stream0.tv41.ru/live.m3u8
-#EXTINF:-1 tvg-name="10 канал (Новокузнецк)" group-title="Развлекательные", 10 канал (Новокузнецк)
-#EXTGRP:Развлекательные
-http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
-#EXTINF:-1 tvg-name="11 канал (Пенза)" group-title="Развлекательные", 11 канал (Пенза)
-#EXTGRP:Развлекательные
-http://85.234.33.64/stream/c11.m3u8
-#EXTINF:-1 tvg-name="THT Exclusive" group-title="Развлекательные", THT Exclusive
-#EXTGRP:Развлекательные
-http://89.28.25.122/hls/tnt_md.m3u8
-#EXTINF:-1 tvg-name="Аист" group-title="Развлекательные", Аист
-#EXTGRP:Развлекательные
-http://141.101.205.134:8080/hls/tvaist.m3u8
-#EXTINF:-1 tvg-name="Дагестан" group-title="Развлекательные", Дагестан
-#EXTGRP:Развлекательные
-http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
-#EXTINF:-1 tvg-name="Евразия (Орск)" group-title="Развлекательные", Евразия (Орск)
-#EXTGRP:Развлекательные
-http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1 tvg-name="Ингушетия" group-title="Развлекательные", Ингушетия
-#EXTGRP:Развлекательные
-http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-name="Крик ТВ" group-title="Развлекательные", Крик ТВ
-#EXTGRP:Развлекательные
-http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Кузбасс 1" group-title="Развлекательные", Кузбасс 1
-#EXTGRP:Развлекательные
-http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
-#EXTINF:-1 tvg-name="МТВ HD" group-title="Развлекательные", МТВ HD
-#EXTGRP:Развлекательные
-http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="НТВ HD" group-title="Развлекательные", НТВ HD
-#EXTGRP:Развлекательные
-http://78.58.133.179:28000/play/a001/index.m3u8
-#EXTINF:-1 tvg-name="НТВ Мир" group-title="Развлекательные", НТВ Мир
-#EXTGRP:Развлекательные
-http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
-#EXTINF:-1 tvg-name="НТВ Стиль" group-title="Развлекательные", НТВ Стиль
-#EXTGRP:Развлекательные
-http://ott-cdn.ucom.am/s77/04.m3u8
-#EXTINF:-1 tvg-name="Пятница HD" group-title="Развлекательные", Пятница HD
-#EXTGRP:Развлекательные
-https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
-#EXTINF:-1 tvg-name="Русский Север HD" group-title="Развлекательные", Русский Север HD
-#EXTGRP:Развлекательные
-http://185.186.142.16/rs/1080/s.m3u8
-#EXTINF:-1 tvg-name="С1 HD" group-title="Развлекательные", С1 HD
-#EXTGRP:Развлекательные
-https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:-1 tvg-name="С86 HD" group-title="Развлекательные", С86 HD
-#EXTGRP:Развлекательные
-https://sitv.ru/hls/s86.m3u8
-#EXTINF:-1 tvg-name="Саратов 24" group-title="Развлекательные", Саратов 24
-#EXTGRP:Развлекательные
-http://saratov24.tv:80/online/playlist.php
-#EXTINF:-1 tvg-name="Сарафан" group-title="Развлекательные", Сарафан
-#EXTGRP:Развлекательные
-http://86.57.178.105:10822
-#EXTINF:-1 tvg-name="Север HD" group-title="Развлекательные", Север HD
-#EXTGRP:Развлекательные
-https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-name="СТРК" group-title="Развлекательные", СТРК
-#EXTGRP:Развлекательные
-http://sochi-strk.ru:2015/STRK/mpegts
-#EXTINF:-1 tvg-name="СТС International" group-title="Развлекательные", СТС International
-#EXTGRP:Развлекательные
-https://sc.id-tv.kz/STS_34_35.m3u8
-#EXTINF:-1 tvg-name="Суббота! HD" group-title="Развлекательные", Суббота! HD
-#EXTGRP:Развлекательные
-https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 tvg-name="Татарстан 24" group-title="Развлекательные", Татарстан 24
-#EXTGRP:Развлекательные
-http://89.232.125.186/online_tv_Tatarstan24/index.m3u8
-#EXTINF:-1 tvg-name="ТВ-3 FHD" group-title="Развлекательные", ТВ-3 FHD
-#EXTGRP:Развлекательные
-https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
-#EXTINF:-1 tvg-name="ТНТ HD" group-title="Развлекательные", ТНТ HD
-#EXTGRP:Развлекательные
-https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
-#EXTINF:-1 tvg-name="ТНТ International" group-title="Развлекательные", ТНТ International
-#EXTGRP:Развлекательные
-http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 tvg-name="ТНТ4 HD" group-title="Развлекательные", ТНТ4 HD
-#EXTGRP:Развлекательные
-https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:-1 tvg-name="Чайковский ТВ" group-title="Развлекательные", Чайковский ТВ
-#EXTGRP:Развлекательные
-http://178.170.233.3:8889/index.m3u8
-#EXTINF:-1 tvg-name="Эфир ТВ" group-title="Развлекательные", Эфир ТВ
-#EXTGRP:Развлекательные
-http://89.232.125.186/online_tv_Efir/index.m3u8
-#EXTINF:-1 tvg-name="Эхо ТВ 24" group-title="Развлекательные", Эхо ТВ 24
-#EXTGRP:Развлекательные
-http://stream.novouralsk-news.ru/echotv24/live.m3u8
-#EXTINF:-1 tvg-name="Югран" group-title="Развлекательные", Югран
-#EXTGRP:Развлекательные
-http://yurgan.bonus-tv.ru/cdn/yurgan/playlist.m3u8
-#EXTINF:-1 tvg-name="6 ТВ Горловка" group-title="Развлекательные", 6 ТВ Горловка
-#EXTGRP:Развлекательные
-http://ott.inmart.tv:8081/223/index.m3u8
-#EXTINF:-1 tvg-name="Губерния Самарская" group-title="Развлекательные", Губерния Самарская
-#EXTGRP:Развлекательные
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-name="Пятница!" group-title="Развлекательные", Пятница!
-#EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="СТС Love" group-title="Развлекательные", СТС Love
-#EXTGRP:Развлекательные
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 tvg-name="Супер" group-title="Развлекательные", Супер
-#EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Че" group-title="Развлекательные", Че
-#EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl2" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png" group-title="Развлекательные",Ю (+2)
-#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl4" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png" group-title="Развлекательные",Ю (+4)
-#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl7" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png" group-title="Развлекательные",Ю (+7)
-#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
