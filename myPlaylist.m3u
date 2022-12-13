@@ -12,41 +12,41 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 #EXTINF:-1 tvg-name="VIP Serial" group-title="Кино", VIP Serial
 #EXTGRP:Кино
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
-#EXTINF:-1 tvg-name="Домашний (okko tv)" group-title="Развлекательные", Домашний (okko tv)
-#EXTGRP:Развлекательные
+#EXTINF:-1 tvg-name="Домашний (okko tv)" group-title="TV", Домашний (okko tv)
+#EXTGRP:TV
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
-#EXTINF:-1 tvg-name="Рен ТВ HD (okko tv)" group-title="Развлекательные", Рен ТВ HD (okko tv)
-#EXTGRP:Развлекательные
+#EXTINF:-1 tvg-name="Рен ТВ HD (okko tv)" group-title="TV", Рен ТВ HD (okko tv)
+#EXTGRP:TV
 http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
-#EXTINF:-1 tvg-name="СТС (okko tv)" group-title="Развлекательные", СТС (okko tv)
-#EXTGRP:Развлекательные
+#EXTINF:-1 tvg-name="СТС (okko tv)" group-title="TV", СТС (okko tv)
+#EXTGRP:TV
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=sts
-#EXTINF:-1 tvg-name="СТС Love (okko tv)" group-title="Развлекательные", СТС Love (okko tv)
-#EXTGRP:Развлекательные
+#EXTINF:-1 tvg-name="СТС Love (okko tv)" group-title="TV", СТС Love (okko tv)
+#EXTGRP:TV
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="Че (okko tv)" group-title="Развлекательные", Че (okko tv)
-#EXTGRP:Развлекательные
+#EXTINF:-1 tvg-name="Че (okko tv)" group-title="TV", Че (okko tv)
+#EXTGRP:TV
 http://ott-cdn.ucom.am/s77/04.m3u8
-#EXTINF:-1 tvg-name="Пятница HD" group-title="Развлекательные", Пятница HD
-#EXTGRP:Развлекательные
+#EXTINF:-1 tvg-name="Пятница HD" group-title="TV", Пятница HD
+#EXTGRP:TV
 http://sochi-strk.ru:2015/STRK/mpegts
-#EXTINF:-1 tvg-name="СТС International" group-title="Развлекательные", СТС International
-#EXTGRP:Развлекательные
+#EXTINF:-1 tvg-name="СТС International" group-title="TV", СТС International
+#EXTGRP:TV
 https://sc.id-tv.kz/STS_34_35.m3u8
-#EXTINF:-1 tvg-name="Суббота! HD" group-title="Развлекательные", Суббота! HD
-#EXTGRP:Развлекательные
+#EXTINF:-1 tvg-name="Суббота! HD" group-title="TV", Суббота! HD
+#EXTGRP:TV
 http://89.232.125.186/online_tv_Tatarstan24/index.m3u8
-#EXTINF:-1 tvg-name="ТВ-3 FHD" group-title="Развлекательные", ТВ-3 FHD
-#EXTGRP:Развлекательные
+#EXTINF:-1 tvg-name="ТВ-3 FHD" group-title="TV", ТВ-3 FHD
+#EXTGRP:TV
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
-#EXTINF:-1 tvg-name="ТНТ HD" group-title="Развлекательные", ТНТ HD
-#EXTGRP:Развлекательные
+#EXTINF:-1 tvg-name="ТНТ HD" group-title="TV", ТНТ HD
+#EXTGRP:TV
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 tvg-name="ТНТ4 HD" group-title="Развлекательные", ТНТ4 HD
+#EXTINF:-1 tvg-name="ТНТ4 HD" group-title="TV", ТНТ4 HD
 #EXTGRP:Развлекательные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="СТС Love" group-title="Развлекательные", СТС Love
-#EXTGRP:Развлекательные
+#EXTINF:-1 tvg-name="СТС Love" group-title="TV", СТС Love
+#EXTGRP:TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-name="Че" group-title="Развлекательные", Че
 #EXTGRP:Развлекательные
@@ -102,3 +102,77 @@ http://cdn.adultiptv.net/gay.m3u8
 http://live.redtraffic.xyz/hardcore.m3u8
 #EXTINF:-1 tvg-name="Three Some" group-title="18+", Three Some
 #EXTGRP:18+
+#EXTINF:-1 group-title="UA",UA Перший
+http://93.189.60.202:8080/1016/index.m3u8
+#EXTINF:-1 group-title="UA",1+1 HD 
+http://portal.ott.pink/watch/7313/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="UA",2+2 HD 
+http://portal.ott.pink/watch/7314/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="UA",2+2
+http://93.189.60.202:8080/995/index.m3u8
+#EXTINF:-1 group-title="UA",ICTV HD 
+http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="UA",ICTV Ukraine
+http://myott.top/stream/12VMR6WFD7/368.m3u8
+#EXTINF:-1 group-title="UA",Новый канал
+http://myott.top/stream/KLNLX2FMC1/157.m3u8
+#EXTINF:-1 ,СТБ tva.in.ua
+http://portal.ott.pink/watch/30/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Інтер
+http://portal.ott.pink/watch/7316/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Інтер+ HD
+http://portal.ott.pink/watch/7508/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,УНІАН ТВ HD
+http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,ТЕТ
+http://93.189.60.202:8080/1009/index.m3u8
+#EXTINF:-1 ,BOLT
+http://185.32.44.154/mtvhit/index.m3u8
+#EXTINF:-1 ,I-UA TV HD
+http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
+#EXTINF:-1 ,OBOZ TV tva.org.ua
+http://player.obozrevatel.com/live2/stream.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 ,К1
+http://portal.ott.pink/watch/125/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,К2
+http://portal.ott.pink/watch/124/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Квартал ТВ 
+http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,ТРК Київ
+http://portal.ott.pink/watch/7410/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Суспільне Перший HD
+http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Сонце
+http://portal.ott.pink/watch/237/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Уніaн 
+http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,V-Comedy tva.org.ua
+https://livetv.mylifeisgood.ml/channels/vip_comedy.m3u8
+#EXTINF:-1 ,VIP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,V-Premiere tva.in.ua
+https://livetv.mylifeisgood.ml/channels/vip_premiere.m3u8
+#EXTINF:-1 ,VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Vip-Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Vip-Serial
+https://livetv.mylifeisgood.ml/channels/vip_serial.m3u8
+#EXTINF:-1 ,TV1000 Action HD
+https://livetv.mylifeisgood.ml/channels/tv1000action.m3u8
+#EXTINF:-1 ,TV 1000 Action HD
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,TV1000 Action HD r
+http://176.74.80.162:8099/TV1000Action/index.m3u8
+#EXTINF:-1 ,TV 1000 HD
+http://95.217.196.109:8081/russia/tv1000_sd_new/playlist.m3u8
+#EXTINF:-1 ,TV1000
+http://livetv.mylifeisgood.ml/channels/tv1000.m3u8
+#EXTINF:-1 ,TV 1000 
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,TV 1000 r
+http://176.74.80.162:8099/TV1000/index.m3u8
+#EXTINF:-1 ,Еврокино
+http://176.74.80.162:8099/EuroKino/index.m3u8
