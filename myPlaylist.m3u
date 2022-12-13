@@ -116,63 +116,63 @@ http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359
 http://myott.top/stream/12VMR6WFD7/368.m3u8
 #EXTINF:-1 group-title="UA",Новый канал
 http://myott.top/stream/KLNLX2FMC1/157.m3u8
-#EXTINF:-1 ,СТБ tva.in.ua
+#EXTINF:-1 group-title="UA",СТБ tva.in.ua
 http://portal.ott.pink/watch/30/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 ,Інтер
+#EXTINF:-1 group-title="UA",Інтер
 http://portal.ott.pink/watch/7316/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 ,Інтер+ HD
+#EXTINF:-1 group-title="UA",Інтер+ HD
 http://portal.ott.pink/watch/7508/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1,УНІАН ТВ HD
+#EXTINF:-1 group-title="UA",УНІАН ТВ HD
 http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1,ТЕТ
+#EXTINF:-1 group-title="UA",ТЕТ
 http://93.189.60.202:8080/1009/index.m3u8
-#EXTINF:-1 ,BOLT
+#EXTINF:-1 group-title="UA",BOLT
 http://185.32.44.154/mtvhit/index.m3u8
-#EXTINF:-1 ,I-UA TV HD
+#EXTINF:-1 group-title="UA",I-UA TV HD
 http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
-#EXTINF:-1 ,OBOZ TV tva.org.ua
+#EXTINF:-1 group-title="UA",OBOZ TV tva.org.ua
 http://player.obozrevatel.com/live2/stream.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 ,К1
+#EXTINF:-1 group-title="UA",К1
 http://portal.ott.pink/watch/125/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 ,К2
+#EXTINF:-1 group-title="UA",К2
 http://portal.ott.pink/watch/124/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 ,Квартал ТВ 
+#EXTINF:-1 group-title="UA",Квартал ТВ 
 http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 ,ТРК Київ
+#EXTINF:-1 group-title="UA",ТРК Київ
 http://portal.ott.pink/watch/7410/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 ,Суспільне Перший HD
+#EXTINF:-1 group-title="UA",Суспільне Перший HD
 http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 ,Сонце
+#EXTINF:-1 group-title="UA",Сонце
 http://portal.ott.pink/watch/237/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 ,Уніaн 
+#EXTINF:-1 group-title="UA",Уніaн 
 http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 ,V-Comedy tva.org.ua
+#EXTINF:-1 group-title="UA",V-Comedy tva.org.ua
 https://livetv.mylifeisgood.ml/channels/vip_comedy.m3u8
-#EXTINF:-1 ,VIP Comedy HD
+#EXTINF:-1 group-title="UA",VIP Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIP Megahit HD
+#EXTINF:-1 group-title="UA",VIP Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,V-Premiere tva.in.ua
+#EXTINF:-1 group-title="UA",V-Premiere tva.in.ua
 https://livetv.mylifeisgood.ml/channels/vip_premiere.m3u8
-#EXTINF:-1 ,VIP Premiere HD
+#EXTINF:-1 group-title="UA",VIP Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,Vip-Serial HD
+#EXTINF:-1 group-title="UA",Vip-Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,Vip-Serial
+#EXTINF:-1 group-title="UA",Vip-Serial
 https://livetv.mylifeisgood.ml/channels/vip_serial.m3u8
-#EXTINF:-1 ,TV1000 Action HD
+#EXTINF:-1 group-title="UA",TV1000 Action HD
 https://livetv.mylifeisgood.ml/channels/tv1000action.m3u8
-#EXTINF:-1 ,TV 1000 Action HD
+#EXTINF:-1 group-title="UA",TV 1000 Action HD
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,TV1000 Action HD r
+#EXTINF:-1 group-title="UA",TV1000 Action HD r
 http://176.74.80.162:8099/TV1000Action/index.m3u8
-#EXTINF:-1 ,TV 1000 HD
+#EXTINF:-1 group-title="UA",TV 1000 HD
 http://95.217.196.109:8081/russia/tv1000_sd_new/playlist.m3u8
-#EXTINF:-1 ,TV1000
+#EXTINF:-1 group-title="UA",TV1000
 http://livetv.mylifeisgood.ml/channels/tv1000.m3u8
-#EXTINF:-1 ,TV 1000 
+#EXTINF:-1 group-title="UA",TV 1000 
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,TV 1000 r
+#EXTINF:-1 group-title="UA",TV 1000 r
 http://176.74.80.162:8099/TV1000/index.m3u8
-#EXTINF:-1 ,Еврокино
+#EXTINF:-1 group-title="UA",Еврокино
 http://176.74.80.162:8099/EuroKino/index.m3u8
